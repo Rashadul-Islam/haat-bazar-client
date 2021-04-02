@@ -1,0 +1,59 @@
+
+#login-card {
+  margin-top: 30px;
+  text-align: center;
+  background-color: DarkSeaGreen;
+}
+#login-card h5 {
+  text-align: start;
+  padding-left: 20px;
+  padding-top: 25px;
+}
+.user-input {
+  width: 280px;
+  padding: 5px;
+  margin-bottom: 15px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid gray;
+}
+#user-submit {
+  width: 280px;
+  padding: 5px;
+  margin-top: 10px;
+  border: none;
+  background-color: chocolate;
+}
+
+#user-manage-btn {
+  text-decoration: none;
+  border: none;
+  background-color: DarkSeaGreen;
+  color: blue;
+}
+#optional-line {
+  margin-top: 20px;
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  grid-template-rows: 20px 0;
+  grid-gap: 20px;
+  width: 300px;
+  color: black;
+}
+
+#optional-line:after,
+#optional-line:before {
+  content: ' ';
+  display: block;
+  border-bottom: 1px solid gray;
+}
+.optional-login {
+  width: 300px;
+  padding: 10px;
+  border: none;
+  background-color: olive;
+  border-radius: 50px;
+  color: white;
+}

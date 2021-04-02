@@ -1,0 +1,33 @@
+.link{
+    color:black;
+}
+.link:hover{
+    text-decoration: none;
+    color: burlywood;
+}
+.logout-style{
+    height: 5%;
+}
+@media only screen and (max-width: 768px)  {
+    .login-style{
+        width: 10%;
+    }
+    .logout-style{
+        width: 15%;
+    }
+    .link{
+        width: 40px;
+    }
+  }
+@media only screen and (max-width: 600px) {
+    .login-style{
+        width: 20%;
+    }
+    .logout-style{
+        width: 30%;
+    }
+    .link{
+        width: 40px;
+    }
+  }
+ 

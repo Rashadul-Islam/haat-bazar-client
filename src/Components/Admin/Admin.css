@@ -1,0 +1,17 @@
+
+.product-container {
+  padding-top: 20px;
+  height: 100%;
+}
+#admin-nav {
+  background-color: gray;
+  height: 15%;
+}
+.link-style{
+    color: black;
+}
+.link-style:hover{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}

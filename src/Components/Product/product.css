@@ -1,0 +1,12 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+#card-style{
+    box-shadow: 4px 4px 8px cadetblue;
+    border-radius: 10px;
+}
+#card-style img{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
