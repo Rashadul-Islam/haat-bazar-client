@@ -1,4 +1,4 @@
-Project name: Haat-Bazar
+<h1>Haat-Bazar</h1>
 
 live-site: [link](https://haat-bazar.netlify.app)
 
