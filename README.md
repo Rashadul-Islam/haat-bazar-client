@@ -1,5 +1,7 @@
 Project name: Haat-Bazar
 
+live-site: [link](https://haat-bazar.netlify.app)
+
 Features:
 
 1. Online shop based on react, mongodb and express.js
@@ -10,5 +12,3 @@ Features:
 6. Data update and deleted by logged in user.
 7. uses 3rd party image hosting for product Image.
 8. Dynamic routing is used.
-
-live site [link](https://haat-bazar.netlify.app)
